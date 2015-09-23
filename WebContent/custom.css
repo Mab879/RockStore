@@ -1,0 +1,12 @@
+/* Custom CSS */
+
+li.nested { padding-left: 30px; margin-bottom: 0px}
+
+div.product_view { border-top: 1px solid #eee; padding-top: 19px; margin-top: 20px; min-height: 148px }
+div.product_view img { float: left }
+div.product_details_container { height:64px }
+div.product_details_container p {float: left; margin-left: 20px; margin-right: 20px; color: rgb(51, 51, 51); font-size: 30px; font-weight: 500 }
+div.product_desc p { padding-left: 148px }
+div.centered-outer { display: flex; justify-content: center; align-items: center; margin-top: 100px }
+div.centered-inner { width: 480px; height: 360px; }
+div.centered-inner input { margin: 5px }
